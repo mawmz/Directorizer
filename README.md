@@ -1,5 +1,5 @@
 # Directorizer
-(Out of Date) Xenoblade TAS Utility Tool
+Xenoblade TAS Utility Tool
 
 A simple save file loader for Xenoblade Chronicles 2
 
